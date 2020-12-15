@@ -1,5 +1,5 @@
-# Enix-Foundation-Site
-Enix Foundation Site
+# Enix-Site
+Enix  Site
 
 ## URL 
 https://enix.ai
